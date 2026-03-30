@@ -1,5 +1,11 @@
 <h1 align="center">🚀 Ahmed Altahir</h1>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AHMEDALTAHIR92&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/AHMEDALTAHIR92?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/AHMEDALTAHIR92?style=for-the-badge"/>
+</p>
+
 <h3 align="center">
 Business Administration Graduate | Data Analyst | Project Management | Web Developer
 </h3>
