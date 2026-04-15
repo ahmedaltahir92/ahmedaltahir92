@@ -116,9 +116,9 @@ University of Science & Technology
 ## 🌎 Connect With Me
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github"></a>
+<a href="https://www.linkedin.com/in/ahmed-altahir-53b499191"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="AhmedAltahir72@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://ahmedaltahir.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
